@@ -1,25 +1,25 @@
-# Setup
+# Foodics Test
 
 ```bash
 git clone https://github.com/shaikhabdulqadir/foodics-test.git
 ```
 
-# Run Migration
+## Run Migration
 ```bash
 php artisan migrate
 ```
 
-# Run Seeder
+## Run Seeder
 ```bash
 php artisan db:seed
 ```
 
-# Run Test Cases
+## Run Test Cases
 ```bash
 php artisan test
 ```
 
-# Place Order Code
+## Place Order Code
 ```bash
 \App\Http\Controllers\OrderController@create
 ```
