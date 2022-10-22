@@ -29,10 +29,10 @@ php artisan test
 
 ### Request
     {
-"products": [
-{
-"product_id": 1,
-"quantity": 2,
-}
-]
-}
+        "products": [
+            {
+                "product_id": 1,
+                "quantity": 2
+            }
+        ]
+    }
