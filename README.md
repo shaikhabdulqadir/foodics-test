@@ -23,3 +23,16 @@ php artisan test
 ```bash
 \App\Http\Controllers\OrderController@create
 ```
+
+## Place Order API
+`[POST] \api\order\create`
+
+### Request
+    {
+"products": [
+{
+"product_id": 1,
+"quantity": 2,
+}
+]
+}
