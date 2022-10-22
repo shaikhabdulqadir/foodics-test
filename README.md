@@ -24,6 +24,11 @@ php artisan test
 \App\Http\Controllers\OrderController@create
 ```
 
+## Place Order Code
+```bash
+\tests\Feature\CreateOrderTest.php
+```
+
 ## Place Order API
 `[POST] \api\order\create`
 
