@@ -18,3 +18,8 @@ php artisan db:seed
 ```bash
 php artisan test
 ```
+
+# Place Order Code
+```bash
+\App\Http\Controllers\OrderController@create
+```
