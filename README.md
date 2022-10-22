@@ -24,7 +24,7 @@ php artisan test
 \App\Http\Controllers\OrderController@create
 ```
 
-## Place Order Code
+## Test Cases Code
 ```bash
 \tests\Feature\CreateOrderTest.php
 ```
